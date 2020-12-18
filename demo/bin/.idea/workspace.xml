@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55a64bf6-6bd6-4ec7-a0d4-f4272b0b816f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Program Files\apache-maven-3.6.3" />
+        <option name="mavenHome" value="E:/Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1llvF3KBaK8XWQPoFf5XTiB6QRU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/templates" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\tianqi\demo\src\main\resources\templates" />
+      <recent name="E:\tianqi\demo\src\main\resources\static\js" />
+      <recent name="E:\tianqi\demo\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55a64bf6-6bd6-4ec7-a0d4-f4272b0b816f" name="Default Changelist" comment="" />
+      <created>1608184385025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608184385025</updated>
+      <workItem from="1608184388371" duration="389000" />
+      <workItem from="1608209706379" duration="9061000" />
+      <workItem from="1608265204728" duration="850000" />
+      <workItem from="1608272557128" duration="1543000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="293" key="GridCell.Tab.0.bottom" timestamp="1608275658025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608275658025" />
+    <state width="1876" height="293" key="GridCell.Tab.0.center" timestamp="1608275658025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608275658025" />
+    <state width="1876" height="293" key="GridCell.Tab.0.left" timestamp="1608275658025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608275658025" />
+    <state width="1876" height="293" key="GridCell.Tab.0.right" timestamp="1608275658025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608275658025" />
+    <state width="1876" height="293" key="GridCell.Tab.1.bottom" timestamp="1608275658025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608275658025" />
+    <state width="1876" height="293" key="GridCell.Tab.1.center" timestamp="1608275658025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608275658025" />
+    <state width="1876" height="293" key="GridCell.Tab.1.left" timestamp="1608275658025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608275658025" />
+    <state width="1876" height="293" key="GridCell.Tab.1.right" timestamp="1608275658025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="293" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608275658025" />
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1608272558530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="342" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608272558530" />
+  </component>
+</project>

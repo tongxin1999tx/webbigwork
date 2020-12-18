@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>全国天气查询小应用</title>
+    <script src="/js/jquery-2.1.1.min.js"></script>
+    <script src="/js/echarts.min.js"></script>
+    <script src="js/jquery.js" type="text/javascript"></script>
+    <script src="js/echarts-all.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="http://localhost:8080/css/weather.css"/>
+    <link rel="icon" href="favicon.ico"/>
+
+
+</head>
+<body>
+<header>
+    <h1>当前城市：</h1>
+    <div id="weather_search">
+        <span><input id="text" type="text" placeholder="请输入您要查询的城市" /></span>
+        <span><input id="btn" type="button" value=" 查询天气" /></span>
+        <span style="margin-left:60px">
+
+
+        </span>
+         <span style="margin-left:80px"><b>温馨提示:</b><b style="color:red" > 疫情严重，请少出门！！！</b></span>
+        <span id="ceshi"></span>
+    </div>
+
+</header>
+    <section>
+        <div id="today_container">
+            <div>
+                <img src="/images/weather_icon/1.png" alt="今日天气"/>
+            </div>
+            <div>
+                <div class="main_info"><span class="info">城市</span>|<span class="info">201X-XX-XX</span>|<span class="info">星期X</span>|<span class="info">---</span> </div>
+                <div class="more_info">今日温度：<span class="info">-----</span>风力：<span class="info">-----</span>风向：<span class="info">-----</span>PM2.5：<span class="info">--</span></div>
+            </div>
+        </div>
+        <div id="future_container">
+            <div class="future_box">
+                <img src="/images/weather_icon/1.png" alt="天气"/>
+                <span class="future_info">201X-XX-XX</span>
+                <span class="future_info">星期X</span>
+                <span class="future_info">--</span><span class="future_info">12-16℃</span>
+            </div>
+            <div class="future_box">
+                <img src="/images/weather_icon/3.png" alt="天气"/>
+                <span class="future_info">201X-XX-XX</span>
+                <span class="future_info">星期X</span>
+                <span class="future_info">--</span><span class="future_info">12-16℃</span>
+            </div>
+            <div class="future_box">
+                <img src="/images/weather_icon/2.png" alt="天气"/>
+                <span class="future_info">201X-XX-XX</span> 
+                <span class="future_info">星期X</span>
+                <span class="future_info">--</span><span class="future_info">12-16℃</span>
+            </div>
+            <div class="future_box">
+                <img src="/images/weather_icon/4.png" alt="天气"/>
+                <span class="future_info">201X-XX-XX</span>
+                <span class="future_info">星期X</span>
+                <span class="future_info">--</span><span class="future_info">12-16℃</span>
+            </div>
+            <div class="future_box">
+                <img src="/images/weather_icon/5.png" alt="天气"/>
+                <span class="future_info">201X-XX-XX</span>
+                <span class="future_info">星期X</span>
+                <span class="future_info">-</span><span class="future_info">12-16℃</span>
+            </div>
+            <div class="future_box">
+                <img src="/images/weather_icon/6.png" alt="天气"/>
+                <span class="future_info">201X-XX-XX</span>
+                <span class="future_info">星期X</span>
+                <span class="future_info">-</span><span class="future_info">12-16℃</span>
+            </div>
+            <div class="future_box">
+                <img src="/images/weather_icon/7.png" alt="天气"/>
+                <span class="future_info">201X-XX-XX</span>
+                <span class="future_info">星期X</span>
+                <span class="future_info">-</span><span class="future_info">12-16℃</span>
+            </div>
+        </div>
+    </section>
+<div id="container" style="height: 300px;margin-top: 60px"></div>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/dist/echarts.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-gl@1/dist/echarts-gl.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts-stat@1/dist/ecStat.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/dist/extension/dataTool.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/map/js/china.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/map/js/world.js"></script>
+<script type="text/javascript" src="https://api.map.baidu.com/api?v=2.0&ak=xfhhaTThl11qYVrqLZii6w8qE5ggnhrY&__ec_v__=20190126"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/echarts@4/dist/extension/bmap.min.js"></script>
+    <script src="/js/index.js"></script>
+<script type="text/javascript">
+
+</script>
+</body>
+</html>
